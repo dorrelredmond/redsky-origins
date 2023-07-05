@@ -3,9 +3,7 @@ A Minecraft modpack using the Quilt mod loader based around the Origins Mod
 
 ## Downloads
 
-[![Modrinth](https://img.shields.io/modrinth/dt/redsky-origins?logo=modrinth&color=darkgreen&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/redsky-origins)
-
-This modpack is only available on Modrinth as it grabs no mods from Curseforge.
+[This modpack is only available on Modrinth as it grabs no mods from Curseforge.](https://modrinth.com/modpack/redsky-origins)
 
 [Modrinth has direct support for ATLauncher, BakaXL, MultiMC, and Prism Launcher](https://docs.modrinth.com/docs/modpacks/playing_modpacks/)
 
