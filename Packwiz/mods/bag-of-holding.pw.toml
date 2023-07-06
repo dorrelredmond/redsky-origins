@@ -1,0 +1,13 @@
+name = "Bag Of Holding"
+filename = "BagOfHolding-v7.0.0-1.20-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qbqWvc0D/versions/3BIsMTo4/BagOfHolding-v7.0.0-1.20-Fabric.jar"
+hash-format = "sha1"
+hash = "3f0f24774f00a283b3a896517f784e0e54342160"
+
+[update]
+[update.modrinth]
+mod-id = "qbqWvc0D"
+version = "3BIsMTo4"

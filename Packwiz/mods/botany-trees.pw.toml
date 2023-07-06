@@ -1,0 +1,13 @@
+name = "Botany Trees"
+filename = "BotanyTrees-Fabric-1.20-8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mvs7RoIW/versions/F2nG73SX/BotanyTrees-Fabric-1.20-8.0.1.jar"
+hash-format = "sha1"
+hash = "f3c5a87f6c712220234e01ae170795973d495c64"
+
+[update]
+[update.modrinth]
+mod-id = "mvs7RoIW"
+version = "F2nG73SX"

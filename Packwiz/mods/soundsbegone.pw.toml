@@ -1,0 +1,13 @@
+name = "Sounds Be Gone!"
+filename = "soundsbegone-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FOIvwGKz/versions/tgMz05rQ/soundsbegone-1.1.0.jar"
+hash-format = "sha1"
+hash = "ff28f7faf5ec17ad139756bbffa1651759f1b87c"
+
+[update]
+[update.modrinth]
+mod-id = "FOIvwGKz"
+version = "tgMz05rQ"

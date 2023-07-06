@@ -1,0 +1,13 @@
+name = "Provi's Origins"
+filename = "provi-origins-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uze1qMee/versions/gMMWYWA2/provi-origins-1.4.0.jar"
+hash-format = "sha1"
+hash = "888b91b685acc9f6e7d43e0c5526bf3d85fda910"
+
+[update]
+[update.modrinth]
+mod-id = "uze1qMee"
+version = "gMMWYWA2"

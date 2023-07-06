@@ -1,0 +1,13 @@
+name = "Slimes Of Kathare"
+filename = "sfslime-2.1.1-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5R4luraC/versions/SFrPGNFD/sfslime-2.1.1-1.20.jar"
+hash-format = "sha1"
+hash = "700a1e5c84fe852dda3fe269b791ef2ca3ee38f4"
+
+[update]
+[update.modrinth]
+mod-id = "5R4luraC"
+version = "SFrPGNFD"

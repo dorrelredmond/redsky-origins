@@ -1,0 +1,13 @@
+name = "Creeper Firework"
+filename = "creepre_firework-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/owUiXPam/versions/Zxj1W3K8/creepre_firework-2.1.0.jar"
+hash-format = "sha1"
+hash = "1fe656ec9598832ff2310d0f59c6ee6a38bb4181"
+
+[update]
+[update.modrinth]
+mod-id = "owUiXPam"
+version = "Zxj1W3K8"

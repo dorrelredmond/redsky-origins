@@ -1,0 +1,13 @@
+name = "Origins++"
+filename = "origins-plus-plus-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/npBe7UbS/versions/OnPvWI05/origins-plus-plus-2.1.jar"
+hash-format = "sha1"
+hash = "463498ebf99e1ec512f2b63ebcf7a7994fed5be3"
+
+[update]
+[update.modrinth]
+mod-id = "npBe7UbS"
+version = "OnPvWI05"

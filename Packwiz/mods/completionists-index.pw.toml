@@ -1,0 +1,13 @@
+name = "Completionist's Index"
+filename = "CompletionistsIndex-v7.0.0-1.20-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iSCGCCV1/versions/I5CmNAzs/CompletionistsIndex-v7.0.0-1.20-Fabric.jar"
+hash-format = "sha1"
+hash = "65d672d2d0768ca8374a25f9a0d336282d53d360"
+
+[update]
+[update.modrinth]
+mod-id = "iSCGCCV1"
+version = "I5CmNAzs"

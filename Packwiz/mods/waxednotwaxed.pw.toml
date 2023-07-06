@@ -1,0 +1,13 @@
+name = "Waxed Not Waxed"
+filename = "waxednotwaxed-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rWdcfqpC/versions/iots6pm6/waxednotwaxed-1.2.0.jar"
+hash-format = "sha1"
+hash = "406cc014d008989164d1d0c4311ada73f1c201c3"
+
+[update]
+[update.modrinth]
+mod-id = "rWdcfqpC"
+version = "iots6pm6"

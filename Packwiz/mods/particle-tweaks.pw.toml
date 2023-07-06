@@ -1,0 +1,13 @@
+name = "Particle Tweaks"
+filename = "ParticleTweaks-1.1.2-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IlGAhsOM/versions/cVFBeKEd/ParticleTweaks-1.1.2-1.20.jar"
+hash-format = "sha1"
+hash = "3f839fb0a07b6b76cc623d5d2b07f755495cb7c0"
+
+[update]
+[update.modrinth]
+mod-id = "IlGAhsOM"
+version = "cVFBeKEd"

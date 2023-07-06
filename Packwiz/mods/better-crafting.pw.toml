@@ -1,0 +1,13 @@
+name = "Better Crafting"
+filename = "bettercrafting-1.20-15-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WZQHRfAv/versions/x08ce7E8/bettercrafting-1.20-15-fabric.jar"
+hash-format = "sha1"
+hash = "67380fe4ca9d0f39efe7e1225a18a117c5336d08"
+
+[update]
+[update.modrinth]
+mod-id = "WZQHRfAv"
+version = "x08ce7E8"

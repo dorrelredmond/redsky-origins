@@ -1,0 +1,13 @@
+name = "Visual Workbench"
+filename = "VisualWorkbench-v7.0.0-1.20-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kfqD1JRw/versions/niu1gOTE/VisualWorkbench-v7.0.0-1.20-Fabric.jar"
+hash-format = "sha1"
+hash = "b3dcf2568ceb8a9a72124b5c54b94bb44140eab8"
+
+[update]
+[update.modrinth]
+mod-id = "kfqD1JRw"
+version = "niu1gOTE"

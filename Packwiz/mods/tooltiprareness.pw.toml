@@ -1,0 +1,13 @@
+name = "TooltipRareness"
+filename = "tooltiprareness-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4jBWaiuq/versions/VXFO3Obs/tooltiprareness-1.0.9.jar"
+hash-format = "sha1"
+hash = "75cab207e7f695a52c9e5563517af675d5512dd4"
+
+[update]
+[update.modrinth]
+mod-id = "4jBWaiuq"
+version = "VXFO3Obs"

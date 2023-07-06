@@ -1,0 +1,13 @@
+name = "Expanded copper"
+filename = "extended-copper-1.4.1-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kJ08cVvv/versions/nYX7ewDz/extended-copper-1.4.1-1.20.jar"
+hash-format = "sha1"
+hash = "50f3f6de527a8df0a0acf2751de8bdedb1b6c4c3"
+
+[update]
+[update.modrinth]
+mod-id = "kJ08cVvv"
+version = "nYX7ewDz"

@@ -1,0 +1,13 @@
+name = "Auto Third Person"
+filename = "auto_third_person-fabric-1.20.0-2.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ANu8FMzT/versions/URkujonb/auto_third_person-fabric-1.20.0-2.0.2.jar"
+hash-format = "sha1"
+hash = "5baea116e2859b7b4a4bb55dd41bb631e8e00939"
+
+[update]
+[update.modrinth]
+mod-id = "ANu8FMzT"
+version = "URkujonb"

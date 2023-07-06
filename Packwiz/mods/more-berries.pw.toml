@@ -1,0 +1,13 @@
+name = "More Berries"
+filename = "moreberries-1.5.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e3oX6jdP/versions/uNguu33K/moreberries-1.5.5.jar"
+hash-format = "sha1"
+hash = "9e4d6134d92960f75ffd175dee38730d16f0fdc1"
+
+[update]
+[update.modrinth]
+mod-id = "e3oX6jdP"
+version = "uNguu33K"

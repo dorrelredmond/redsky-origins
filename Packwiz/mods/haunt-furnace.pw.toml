@@ -1,0 +1,13 @@
+name = "Haunt Furnace"
+filename = "HauntFurnace-0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G05u0Ety/versions/1ll2Ek0w/HauntFurnace-0.2-1.20.1.jar"
+hash-format = "sha1"
+hash = "e4d35a088fd4171e9ec53707d5cb0083ca624b8c"
+
+[update]
+[update.modrinth]
+mod-id = "G05u0Ety"
+version = "1ll2Ek0w"
