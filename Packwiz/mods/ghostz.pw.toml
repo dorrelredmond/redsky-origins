@@ -1,13 +1,13 @@
 name = "GhostZ"
-filename = "ghostz-1.0.1-1.20.jar"
+filename = "ghostz-1.0.3-1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vcR7vUdh/versions/4YcXEJVr/ghostz-1.0.1-1.20.jar"
+url = "https://cdn.modrinth.com/data/vcR7vUdh/versions/fgA99p0Y/ghostz-1.0.3-1.20.jar"
 hash-format = "sha1"
-hash = "193520cc7f739210c0fb7930da0e61f91efed757"
+hash = "f9f2924708fcc25bd14a7d55126736431cafe146"
 
 [update]
 [update.modrinth]
 mod-id = "vcR7vUdh"
-version = "4YcXEJVr"
+version = "fgA99p0Y"
